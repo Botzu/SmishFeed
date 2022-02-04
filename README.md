@@ -15,7 +15,7 @@ Before working on this or any assignment, you will need to set up the **Android 
  
 For this first assignment, we'll practice whatever topics we covered in the class. You should develop an app that has the following: 
 
-1. Your app should be set up as an Android Studio project, so it can easily be opened/graded by others. 
+1. Your app should be set up as an **Android Studio** project, so it can easily be opened/graded by others. 
 2. In **MainActivity** you will display either a profile picture, populate listview under the image with your name, department, year using the **static (string.xml)** listing method.
 3. Create a button named **Grade** and write intent to go **GradeActivity**. Here you will take the input score from editTextNumber and display letter grade in TextView once you click the Show **Grade** button. You will implement our grading policy in GradeActivity along with the **Back** button.
 
