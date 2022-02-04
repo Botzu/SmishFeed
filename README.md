@@ -25,7 +25,7 @@ For this first assignment, we'll practice whatever topics we covered in the clas
   77≤x<80: C+ | 80≤x<83: B- |	83≤x<87 : B 
   87≤x<90: B+ | 90≤x<93: A- | 93≤x: A 
 
-- For example, if you input 94 in editTextNumber, it will display **You got A grade** into the text view.
+>> For example, if you input 94 in editTextNumber, it will display **You got A grade** into the text view.
 4. Create another button in **MainActivity** named **Discount** and go to activity **DiscountActivity**. In **DiscountActivity**, take your name and email id as input, hit the discount button, and generate a coupon (Figure 2.11 from the book).
 5. Apply the material design like Figure 1.22 in the book for all the TextField. Saving and Restoring the State in Layouts for all the UI means if you rotate the screen, your state will not disappear. 
   
