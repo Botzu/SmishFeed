@@ -18,7 +18,7 @@ For this first assignment, we'll practice whatever topics we covered in the clas
 2. In MainActivity you will display either a profile picture, populate listview under the image with your name, department, year using the static (string.xml) listing method.
 3. Create a button named Grade and write intent to go GradeActivity. Here you will take the input score from editTextNumber and display letter grade in TextView once you click the Show Grade button. You will implement our grading policy in GradeActivity along with the Back button.
 
-| Header 1  | Another header here | This is a long header |
+| This is a long header |
 | --------  | ------------------- | --------------------- |
 | Some data | Some more data      | data                  | 
 | data      | Some long data here | more data             | 
