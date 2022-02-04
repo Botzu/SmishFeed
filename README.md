@@ -31,7 +31,7 @@ For this first assignment, we'll practice whatever topics we covered in the clas
   
 If you want help, please feel free to show your code to others or ask for help in our online discussion forum. Feel free to make an app as simple or as complex as you like, relative to your familiarity level and time constraints. If you work on your solution for a few hours and are still not done, you can turn it in, and we will award you credit. You can do it! 
  
-# For uploading the project, you have to follow two steps:
+### For uploading the project, you have to follow two steps:
 
 1.  Create a folder name called **“Output”** inside the **HW1_YOURNAME folder**. Make a small video showing your program functionality in the emulator and show your code as well. 1~2 minutes video is fine. 
 1.  Push your code with video in Github.
