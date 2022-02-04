@@ -24,7 +24,7 @@ For this first assignment, we'll practice whatever topics we covered in the clas
 | data      | Some long data here | more data             | 
 
 | Grades |
-| --- | --- | --- |
+| --- |
 | x<60: F | 60≤x<63: D- | 63≤x<67 : D |
 | 67≤x<70: D+ |	70≤x<73: C- | 73≤x<77 : C |
 | 77≤x<80: C+ | 80≤x<83: B- |	83≤x<87 : B |
