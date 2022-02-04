@@ -19,10 +19,10 @@ For this first assignment, we'll practice whatever topics we covered in the clas
 2. In **MainActivity** you will display either a profile picture, populate listview under the image with your name, department, year using the **static (string.xml)** listing method.
 3. Create a button named **Grade** and write intent to go **GradeActivity**. Here you will take the input score from editTextNumber and display letter grade in TextView once you click the Show **Grade** button. You will implement our grading policy in GradeActivity along with the **Back** button.
  
-  67≤x<70: D+ | 70≤x<73: C- | 73≤x<77 : C 
-  |:--:|:--:|:--:
-  77≤x<80: C+ | 80≤x<83: B- |	83≤x<87 : B 
-  87≤x<90: B+ | 90≤x<93: A- | 93≤x: A 
+ 67≤x<70: D+ | 70≤x<73: C- | 73≤x<77 : C 
+ |:--:|:--:|:--:
+ 77≤x<80: C+ | 80≤x<83: B- |	83≤x<87 : B 
+ 87≤x<90: B+ | 90≤x<93: A- | 93≤x: A 
 
 > For example, if you input 94 in editTextNumber, it will display **You got A grade** into the text view.
 4. Create another button in **MainActivity** named **Discount** and go to activity **DiscountActivity**. In **DiscountActivity**, take your name and email id as input, hit the discount button, and generate a coupon (Figure 2.11 from the book).
