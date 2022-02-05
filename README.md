@@ -1,4 +1,5 @@
 <h1 align="center">SmishFeed</h1>
+<h5 align="center">Points: 10</h5>
 A public phish feed of SMS messages for academic purposes
 
 ## What is the purpose of this site
