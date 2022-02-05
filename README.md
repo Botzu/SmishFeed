@@ -8,7 +8,7 @@ This site will store publicly supplied phishing messages for use in research pro
 
 <h5>Rubrics:</h5>
 
-- [ ] Task 1 and 2: 2.5 points
-- [ ] Task 3: 2.5 points
-- [ ] Task 4: 2.5 points
-- [ ] Task 5: 2.5 points
+* Task 1 and 2: 2.5 points
+* Task 3: 2.5 points
+* Task 4: 2.5 points
+* Task 5: 2.5 points
