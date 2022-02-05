@@ -1,4 +1,4 @@
-# SmishFeed
+<h1 align="center">SmishFeed</h1>
 A public phish feed of SMS messages for academic purposes
 
 ## What is the purpose of this site
