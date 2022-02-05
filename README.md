@@ -9,8 +9,8 @@ This site will store publicly supplied phishing messages for use in research pro
 <h5>Grading Rubrics:</h5>
 
 ```diff
-- 1. Task 1 and 2: 2.5 points
-- 2. Task 3: 2.5 points
-- 3. Task 4: 2.5 points
-- 4. Task 5: 2.5 points
+- Task 1 and 2: 2.5 points
+- Task 3: 2.5 points
+- Task 4: 2.5 points
+- Task 5: 2.5 points
 ```
